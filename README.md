@@ -1,2 +1,2 @@
 # simple-php-sql
-Simple php sql query 
+Simple php sql query data visualization
